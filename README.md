@@ -1,4 +1,4 @@
-[Header]:(your-header-image-name.png)
+<img src="github-header-image.png">
 
 <h1 align="center">Hola 👋, Soy Lazaro Lopez</h1>
 <h3 align="center">Un joven estudiante y desarrollador</h3>
