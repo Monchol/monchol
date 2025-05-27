@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hola 👋, Soy Lazaro Lopez</h1>
 <h3 align="center">Un joven estudiante y desarrollador</h3>
 
