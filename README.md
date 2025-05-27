@@ -12,6 +12,7 @@ Actualmente estoy concentrado en mis estudios secundarios-tecnicos con objetivos
 ## 🛠 Skills
 Actualmente tengo conociminetos en HTML, CSS, Javascript, PHP, Python, C++, Arduino, Redes, Sitemas Operativos Linux, Hardware, Diseño UX. Con ideas de aprender a futuro framewoks de Javascript, Bases de Datos, 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Monchol&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
