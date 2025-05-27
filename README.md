@@ -10,7 +10,7 @@
 
 - 👨‍💻 Mi proyectos estan disponibles en [https://monchol.github.io/Portfolio-prototype/](https://monchol.github.io/Portfolio-prototype/)
 
-- 💬 Tengo pensado... **Hacer las carreras de APU (Analista Programador Universitario) y Licenciatura en Informatica**
+- 💬 Tengo pensado... **Hacer las carreras de APU (Analista Programador Universitario) y Licenciatura en Informatica en la UNPSJ**
 
 - 📫 Contactame **moncholo987@gmai.com**
 
