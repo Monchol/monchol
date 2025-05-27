@@ -1,8 +1,5 @@
 <img src="github-header-image.png">
 
-<h1 align="center">Hola 👋, Soy Lazaro Lopez</h1>
-<h3 align="center">Un joven estudiante y desarrollador</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monchol&label=Profile%20views&color=0e75b6&style=flat" alt="monchol" /> </p>
 
 - 🔭 Usualmente trabajo en proyectos simples en mi tiempo libre como [Clon de Netflix](https://github.com/Monchol/netflix)
